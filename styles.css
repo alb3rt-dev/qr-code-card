@@ -41,6 +41,7 @@ p {
     padding: 16px;
     border-radius: 20px;
     background: hsl(0, 0%, 100%);
+    box-shadow: 0 25px 12.5px hsl(0, 0%, 0%, .05);
 }
 
 .card .qr-img {
@@ -59,7 +60,7 @@ p {
 .attribution {
     color: hsl(218, 44%, 22%);
     position: relative;
-    top: 12px;
+    top: 24px;
     font-size: 11px;
     text-align: center;
 }
